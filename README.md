@@ -1,2 +1,0 @@
-# Atlantida
-WordPress theme
